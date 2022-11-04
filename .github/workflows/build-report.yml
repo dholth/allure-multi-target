@@ -1,0 +1,13 @@
+name: Test report action
+
+on:
+  push:
+  repository_dispatch:
+  workflow_dispatch:
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Call allure-multi action
+        uses: dholth/allure-multi
