@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Call allure-multi action
-        uses: dholth/allure-multi
+        uses: dholth/allure-multi@main
