@@ -40,7 +40,7 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload report
-          path: gh-pages/allure-report
+          path: gh-pages
 
   pages:
 
