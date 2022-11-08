@@ -1,0 +1,1 @@
+Input file pinkie.rar doesn't have a supported extension ({'.tar.bz2': <class 'conda_package_handling.tarball.CondaTarBZ2'>, '.conda': <class 'conda_package_handling.conda_fmt.CondaFormat_v2'>}), skipping it

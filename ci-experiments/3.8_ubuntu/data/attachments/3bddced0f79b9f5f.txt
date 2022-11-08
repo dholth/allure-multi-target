@@ -1,0 +1,1 @@
+  0%|          | 0/1 [00:00<?, ?it/s]Converted: /tmp/pytest-of-runner/pytest-0/test_api_transmute_fail_valida2/mock-2.0.0-py37_1000.conda:   0%|          | 0/1 [00:00<?, ?it/s]                                                                                                                                           

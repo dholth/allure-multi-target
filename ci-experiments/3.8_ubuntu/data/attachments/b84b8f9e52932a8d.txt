@@ -1,0 +1,4 @@
+/usr/share/miniconda/envs/test_env/lib/python3.8/site-packages/conda_package_streaming/package_streaming.py:19: UserWarning: zstandard could not be imported. Running without .conda support.
+  warnings.warn("zstandard could not be imported. Running without .conda support.")
+/usr/share/miniconda/envs/test_env/lib/python3.8/site-packages/conda_package_handling/api.py:32: UserWarning: Install zstandard Python bindings for .conda support
+  _warnings.warn("Install zstandard Python bindings for .conda support")
