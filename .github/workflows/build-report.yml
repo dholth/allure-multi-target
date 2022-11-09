@@ -19,6 +19,8 @@ jobs:
         uses: dholth/allure-multi@main
         with:
           repository: dholth/conda-package-handling
+          pattern: allure-*
+          group: allure-(.*)-latest
 
       # https://lannonbr.com/blog/2019-12-09-git-commit-in-actions/
       - name: setup git config
