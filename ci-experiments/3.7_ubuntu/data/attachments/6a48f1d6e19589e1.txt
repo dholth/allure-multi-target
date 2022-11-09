@@ -1,2 +1,0 @@
-failed files:
-{'fail', 'why', 'you', 'that', 'is'}
